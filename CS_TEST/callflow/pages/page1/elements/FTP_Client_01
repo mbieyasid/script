@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<decision_element id="Element@202682389:1654680038471" name="FTP_Client_01" version="6.0.1">
+<config>
+<settings>
+<setting name="filename"/>
+<setting name="remote_filename"/>
+<setting name="ftp_hosts"/>
+<setting name="ftp_user">anonymous</setting>
+<setting name="ftp_password"/>
+<setting name="ftp_path"/>
+<setting name="delete_file_on_success">true</setting>
+</settings>
+</config>
+</decision_element>

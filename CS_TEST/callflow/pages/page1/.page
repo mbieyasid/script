@@ -7,17 +7,19 @@
 </element>
 <element height="50" id="Element@131817768:1654660844123" name="CVP Subdialog Start_01" src="com.audium.server.voiceElement.internal.CiscoSubdialogStartElement" type="Subdialog Start" width="205" x="312" y="167">
 <exit_states>
-<exit_state name="done" target="Element@2066809693:1654660870949"/>
-</exit_states>
-</element>
-<element height="50" id="Element@2066809693:1654660870949" name="Database_01" src="com.audium.server.action.database.DatabaseAction" type="Action Element" width="135" x="352" y="292">
-<exit_states>
-<exit_state name="done" target="Element@723145396:1654660880158"/>
+<exit_state name="done" target="Element@202682389:1654680038471"/>
 </exit_states>
 </element>
 <element height="50" id="Element@723145396:1654660880158" name="CVP Subdialog Return_01" src="com.audium.server.voiceElement.internal.CiscoSubdialogReturnElement" type="Subdialog Return" width="217" x="341" y="463">
 <exit_states>
 <exit_state name="done"/>
+</exit_states>
+</element>
+<element height="50" id="Element@202682389:1654680038471" name="FTP_Client_01" src="com.cisco.cvp.vxml.custelem.FTP" type="Decision Element" width="139" x="570" y="310">
+<exit_states>
+<exit_state name="done" target="Element@723145396:1654660880158"/>
+<exit_state name="partial_success" target="Element@723145396:1654660880158"/>
+<exit_state name="error" target="Element@723145396:1654660880158"/>
 </exit_states>
 </element>
 </page>
