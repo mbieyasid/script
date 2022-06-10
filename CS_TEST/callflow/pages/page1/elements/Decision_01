@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<decision id="Element@205518342:1654832363076" name="Decision_01" version="6.0.1">
+<config>
+<source type="Decision Editor"><![CDATA[<knowledge_base>
+    <rule name="Decision_01" default_exit_state="asasdas">
+        <exit_state name="as" conjugate="and">
+            <number operator="equal">
+                <call_data type="ani" />
+                <data>
+                    <element name="Database_01" variable="num_rows_processed" />
+                </data>
+            </number>
+        </exit_state>
+    </rule>
+</knowledge_base>]]></source>
+</config>
+</decision>
