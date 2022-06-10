@@ -23,12 +23,7 @@
 <element height="50" id="Element@483087199:1654833024792" name="Decision_02" type="Decision" width="129" x="779" y="332">
 <exit_states>
 <exit_state name="123" target="Element@600133563:1654680463881"/>
-<exit_state name="567" target="Element@16287522:1654833032530"/>
-</exit_states>
-</element>
-<element height="50" id="Element@16287522:1654833032530" name="Copy_of_CVP Subdialog Return_02" src="com.audium.server.voiceElement.internal.CiscoSubdialogReturnElement" type="Subdialog Return" width="277" x="746" y="444">
-<exit_states>
-<exit_state name="done"/>
+<exit_state name="567" target="Element@600133563:1654680463881"/>
 </exit_states>
 </element>
 </page>
