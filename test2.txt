@@ -4,9 +4,8 @@ RVNICEA1ABC20WP, RVNICDB1DBC20WP, RVNICAI2ABC20WP, RVNISEN1DBC20WP, RVNICNP1ABC2
 menambahkan file
 
 
-<<<<<<< HEAD
 tambah 2
-tambah 3
+
 
 tambah 8
 tambah 1
