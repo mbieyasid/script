@@ -2,7 +2,7 @@ Revert artinya mengembalikan. Perintah ini lebih aman daripada git reset, karena
 
 
 
-<<<<<<< HEAD
+
 git reset --soft 7ec45926fecd0187d6cbdf1e0e3e5cb4948bbb7b
 
 
@@ -11,10 +11,4 @@ askjdhakjshd
 
 
 asjkdhajkshd
-jkhasjkdhas
 
-jkhjkashd
-ahsgdhagsd
-=======
-git reset --soft 7ec45926fecd0187d6cbdf1e0e3e5cb4948bbb7b
->>>>>>> parent of 677a6ef (tambah baris2)
