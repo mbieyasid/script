@@ -1,0 +1,5 @@
+Revert artinya mengembalikan. Perintah ini lebih aman daripada git reset, karena tidak akan menghapus catatan sejarah revisi.
+
+
+
+git reset --soft 7ec45926fecd0187d6cbdf1e0e3e5cb4948bbb7b

@@ -7,8 +7,11 @@ menambahkan file
 tambah 2
 
 
+<<<<<<< HEAD
 tambah 8
 tambah 1
+=======
+>>>>>>> parent of 2194cbc (after reset)
 
 
 
